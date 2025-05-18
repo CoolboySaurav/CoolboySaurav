@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saurav Mestry
+- 👋 Hi, I’m Saurav Mestry, I'm currently working as a Software Engineer at Snowflake Inc.
 - 👀 I’m interested in Machine Learning, Data Analytics for Sports. I like to build services and products for convenience.
 - 🌱 I’m currently learning building neural networks from scratch, honing data structures & algorithms, learning new backend technologies
 - 📫 Connect me on LinkedIn or visit my website
